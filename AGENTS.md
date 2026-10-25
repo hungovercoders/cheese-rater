@@ -1,5 +1,7 @@
 # CheeseRater.co.uk
 
+**Status: parked prototype.** Built in GitHub Spark and kept for reference; not maintained. Do not start new work here without the owner saying the project is active again.
+
 Single-page cheese catalogue and rating app built with GitHub Spark (React 19, Vite 7, Tailwind 4, shadcn/ui), live at https://cheeserater.co.uk. The owner adds cheeses; visitors rate them and keep a wishlist and a tried list under a nickname.
 
 ## Ground rules
