@@ -1,23 +1,13 @@
-# ✨ Welcome to Your Spark Template!
-You've just launched your brand-new Spark Template Codespace — everything’s fired up and ready for you to explore, build, and create with Spark!
+# CheeseRater.co.uk
 
-This template is your blank canvas. It comes with a minimal setup to help you get started quickly with Spark development.
+A single-page app for discovering and rating artisan cheeses, live at https://cheeserater.co.uk. The owner curates the catalogue; visitors rate cheeses and keep a wishlist and a tried list under a nickname. Built with GitHub Spark: React 19, Vite 7, Tailwind 4 and shadcn/ui.
 
-🚀 What's Inside?
-- A clean, minimal Spark environment
-- Pre-configured for local development
-- Ready to scale with your ideas
-  
-🧠 What Can You Do?
+## Quick start
 
-Right now, this is just a starting point — the perfect place to begin building and testing your Spark applications.
+```sh
+mise install
+npm install
+npm run dev
+```
 
-🧹 Just Exploring?
-No problem! If you were just checking things out and don’t need to keep this code:
-
-- Simply delete your Spark.
-- Everything will be cleaned up — no traces left behind.
-
-📄 License For Spark Template Resources 
-
-The Spark Template files and resources from GitHub are licensed under the terms of the MIT license, Copyright GitHub, Inc.
+Opens on http://localhost:5000. Before you do anything else here, read [AGENTS.md](AGENTS.md): commands, layout, hosting, data and the rules every change follows. The product brief is [PRD.md](PRD.md); the system shape is [docs/architecture.md](docs/architecture.md).
